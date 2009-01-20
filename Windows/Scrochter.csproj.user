@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"c:\program\internet explorer\iexplore.exe" 1200 800 http://www.daft.t.se "test.jpg"</StartArguments>
+    <StartWorkingDirectory>c:\documents and Settings\Administratör\Skrivbord</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>"c:\program\internet explorer\iexplore.exe" 1200 800 http://www.daft.t.se "test.jpg"</StartArguments>
+    <StartWorkingDirectory>c:\documents and Settings\Administratör\Skrivbord</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

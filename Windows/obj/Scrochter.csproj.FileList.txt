@@ -1,0 +1,10 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\Scrochter.exe
+bin\Release\Scrochter.pdb
+obj\Release\Scrochter.exe
+obj\Release\Scrochter.pdb
+bin\Debug\Scrochter.exe
+bin\Debug\Scrochter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Scrochter.exe
+obj\Debug\Scrochter.pdb
